@@ -9,10 +9,10 @@
 ## For setup it
 
 1. fork this repo
-2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/RdW-afk/gitpod
+2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/aep-oss/gitpod
 3. enjoy your monthly 50hrs
 
-## Some Info
+## Some Inf
 
 > This template have also the possibility to ssh into the workspace thanks to https://tmate.io, check their website for further information
 
